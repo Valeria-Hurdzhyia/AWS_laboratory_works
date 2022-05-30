@@ -1,0 +1,185 @@
+[
+{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"036","CurrencyCodeL":"AUD","Units":1,"Amount":21.6852
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"944","CurrencyCodeL":"AZN","Units":1,"Amount":16.6439
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"933","CurrencyCodeL":"BYN","Units":1,"Amount":10.9477
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"975","CurrencyCodeL":"BGN","Units":1,"Amount":17.7571
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"410","CurrencyCodeL":"KRW","Units":100,"Amount":2.6015
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"344","CurrencyCodeL":"HKD","Units":1,"Amount":3.6472
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"208","CurrencyCodeL":"DKK","Units":1,"Amount":4.67
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"840","CurrencyCodeL":"USD","Units":1,"Amount":28.2746
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"978","CurrencyCodeL":"EUR","Units":1,"Amount":34.7396
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"818","CurrencyCodeL":"EGP","Units":1,"Amount":1.7956
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"392","CurrencyCodeL":"JPY","Units":10,"Amount":2.7444
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"985","CurrencyCodeL":"PLN","Units":1,"Amount":7.6348
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"356","CurrencyCodeL":"INR","Units":10,"Amount":3.857
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"124","CurrencyCodeL":"CAD","Units":1,"Amount":22.1154
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"191","CurrencyCodeL":"HRK","Units":1,"Amount":4.6037
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"484","CurrencyCodeL":"MXN","Units":1,"Amount":1.4247
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"498","CurrencyCodeL":"MDL","Units":1,"Amount":1.6413
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"376","CurrencyCodeL":"ILS","Units":1,"Amount":8.8113
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"554","CurrencyCodeL":"NZD","Units":1,"Amount":20.3506
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"578","CurrencyCodeL":"NOK","Units":1,"Amount":3.2957
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"710","CurrencyCodeL":"ZAR","Units":1,"Amount":1.9284
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"643","CurrencyCodeL":"RUB","Units":10,"Amount":3.7823
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"946","CurrencyCodeL":"RON","Units":1,"Amount":7.1366
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"360","CurrencyCodeL":"IDR","Units":1000,"Amount":2.0119
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"682","CurrencyCodeL":"SAR","Units":1,"Amount":7.5359
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"702","CurrencyCodeL":"SGD","Units":1,"Amount":21.3651
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"960","CurrencyCodeL":"XDR","Units":1,"Amount":40.8829
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"398","CurrencyCodeL":"KZT","Units":100,"Amount":6.7124
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"949","CurrencyCodeL":"TRY","Units":1,"Amount":3.8448
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"348","CurrencyCodeL":"HUF","Units":100,"Amount":9.5181
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"826","CurrencyCodeL":"GBP","Units":1,"Amount":38.4393
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"203","CurrencyCodeL":"CZK","Units":1,"Amount":1.3238
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"752","CurrencyCodeL":"SEK","Units":1,"Amount":3.453
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"756","CurrencyCodeL":"CHF","Units":1,"Amount":32.0156
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"156","CurrencyCodeL":"CNY","Units":1,"Amount":4.3333
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"012","CurrencyCodeL":"DZD","Units":10,"Amount":2.1416
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"764","CurrencyCodeL":"THB","Units":10,"Amount":9.445
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"986","CurrencyCodeL":"BRL","Units":1,"Amount":5.4505
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"051","CurrencyCodeL":"AMD","Units":100,"Amount":5.4105
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"936","CurrencyCodeL":"GHS","Units":1,"Amount":4.8198
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"784","CurrencyCodeL":"AED","Units":1,"Amount":7.698
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"704","CurrencyCodeL":"VND","Units":1000,"Amount":1.2244
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"368","CurrencyCodeL":"IQD","Units":100,"Amount":1.9366
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"364","CurrencyCodeL":"IRR","Units":10000,"Amount":6.732
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"981","CurrencyCodeL":"GEL","Units":1,"Amount":8.6366
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"422","CurrencyCodeL":"LBP","Units":100,"Amount":1.8756
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"434","CurrencyCodeL":"LYD","Units":1,"Amount":21.1383
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"458","CurrencyCodeL":"MYR","Units":1,"Amount":7.0047
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"504","CurrencyCodeL":"MAD","Units":1,"Amount":3.1763
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"901","CurrencyCodeL":"TWD","Units":10,"Amount":10.06
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"941","CurrencyCodeL":"RSD","Units":10,"Amount":2.9536
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"417","CurrencyCodeL":"KGS","Units":10,"Amount":3.421
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"972","CurrencyCodeL":"TJS","Units":1,"Amount":2.5022
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"050","CurrencyCodeL":"BDT","Units":10,"Amount":3.3343
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"788","CurrencyCodeL":"TND","Units":1,"Amount":10.5192
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"934","CurrencyCodeL":"TMT","Units":1,"Amount":8.0785
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"860","CurrencyCodeL":"UZS","Units":1000,"Amount":2.6988
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"959","CurrencyCodeL":"XAU","Units":1,"Amount":53200.92
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"961","CurrencyCodeL":"XAG","Units":1,"Amount":744.19
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"962","CurrencyCodeL":"XPT","Units":1,"Amount":30203.49
+ }
+,{ 
+"StartDate":"01.01.2021","TimeSign":"0000","CurrencyCode":"964","CurrencyCodeL":"XPD","Units":1,"Amount":66289.52
+ }
+]
